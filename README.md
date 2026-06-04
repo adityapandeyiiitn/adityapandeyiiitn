@@ -28,17 +28,25 @@
 ---
 
 ## 📊 Data Science
-- Data Analysis (NumPy, Pandas)  
-- Data Visualization (Matplotlib, Seaborn)  
-- Basic Machine Learning concepts  
-- Working with datasets & preprocessing  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-grey?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyiiitn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -59,12 +67,3 @@
 ---
 
 ⭐ From [adityapandeyiiitn](https://github.com/adityapandeyiiitn)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
