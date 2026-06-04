@@ -1,69 +1,62 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">B.Tech CSE @ IIIT Nagpur | BS Data Science and Applications @ IIT Madras</h3>
+# Aditya
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39C0C3&width=435&lines=Data+Science+%26+AI;Backend+Development;Data+Structures+%26+Algorithms" alt="Typing SVG" />
+</p>
+
+## About Me
+
+- 🎓 **Education**:
+  - B.Tech in Computer Science Engineering at IIIT Nagpur
+  - BS in Data Science and Applications at IIT Madras
+- 💡 **Interests**:
+  - Data Science & Artificial Intelligence
+  - Backend Development
+  - Data Structures & Algorithms
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## Data Science Skills
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-6A1B9A?style=flat&logo=python&logoColor=white)
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=B.Tech+CSE+@+IIIT+Nagpur;BS+Data+Science+@+IIT+Madras" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyiiitn&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
 </p>
 
----
+## Portfolio
 
-## 🧠 About Me
-- 🎓 B.Tech in Computer Science Engineering @ IIIT Nagpur  
-- 📊 BS in Data Science and Applications @ IIT Madras  
-- 💻 Interested in Data Science, AI & Backend Development  
-- 📈 Focused on DSA and core fundamentals  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://adityapandeyiiitn.vercel.app/)
 
----
+## Connect With Me
 
-## ⚙️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-</p>
-
----
-
-## 📊 Data Science
-<p>
-  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-grey?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyiiitn&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/adityapandeyiiitn">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+  <a href="https://linkedin.com/in/adityapandeyiiitn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/adityapandey_adp">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+  &nbsp;
+  <a href="https://instagram.com/adityapandey_adp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="mailto:adityapandeyiiitn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-⭐ From [adityapandeyiiitn](https://github.com/adityapandeyiiitn)
