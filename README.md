@@ -32,14 +32,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-6A1B9A?style=flat&logo=python&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=adityapandeyiiitn&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
-</p>
-
 ## Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel)](https://adityapandeyiiitn.vercel.app/)
@@ -59,4 +51,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
