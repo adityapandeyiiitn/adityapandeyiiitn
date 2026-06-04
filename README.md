@@ -1,28 +1,37 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">CSE Student | Data Science Enthusiast</h3>
+<h3 align="center">B.Tech CSE @ IIIT Nagpur | BS Data Science and Applications @ IIT Madras</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=CSE+@+IIIT+Nagpur;BS+in+Data+Science+@+IIT+Madras;Learning+DSA+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=B.Tech+CSE+@+IIIT+Nagpur;BS+Data+Science+and+Applications+@+IIT+Madras" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 B.Tech in Computer Science at IIIT Nagpur  
-- 📊 BS in Data Science and Applications from IIT Madras  
+- 🎓 B.Tech in Computer Science Engineering @ IIIT Nagpur  
+- 📊 BS in Data Science and Applications @ IIT Madras  
 - 💻 Interested in Data Science, AI & Backend Development  
-- 📈 Currently improving DSA & problem-solving  
+- 📈 Focused on DSA and core fundamentals  
 
 ---
 
 ## ⚙️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
 </p>
+
+---
+
+## 📊 Data Science
+- Data Analysis (NumPy, Pandas)  
+- Data Visualization (Matplotlib, Seaborn)  
+- Basic Machine Learning concepts  
+- Working with datasets & preprocessing  
 
 ---
 
@@ -32,12 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapandeyiiitn&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Currently Working On
-- Improving DSA  
-- Learning Data Science  
 
 ---
 
@@ -54,7 +57,6 @@
 ---
 
 ⭐ From [adityapandeyiiitn](https://github.com/adityapandeyiiitn)
-
 <!--
 **adityapandeyiiitn/adityapandeyiiitn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
