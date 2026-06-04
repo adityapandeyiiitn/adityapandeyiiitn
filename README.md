@@ -1,7 +1,7 @@
-# Aditya
+# Aditya Pandey
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39C0C3&width=435&lines=Data+Science+%26+AI;Backend+Development;Data+Structures+%26+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39C0C3&width=435&lines=Data+Science+%26+AI;Full+Stack+Development;Data+Structures+%26+Algorithms" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -11,7 +11,7 @@
   - BS in Data Science and Applications at IIT Madras
 - 💡 **Interests**:
   - Data Science & Artificial Intelligence
-  - Backend Development
+  - Full Stack Development
   - Data Structures & Algorithms
 
 ## Tech Stack
@@ -35,9 +35,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandeyiiitn&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyiiitn&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapandeyiiitn&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## Portfolio
@@ -59,4 +59,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
